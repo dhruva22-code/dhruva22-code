@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there im Dhruva Raj Singh an Engineering student
 
 <!--
 **dhruva22-code/dhruva22-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
